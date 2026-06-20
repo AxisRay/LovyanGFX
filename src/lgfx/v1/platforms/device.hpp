@@ -115,4 +115,3 @@ Contributors:
 #include "sdl/Panel_sdl.hpp"
 
 #endif
-
